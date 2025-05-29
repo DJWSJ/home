@@ -1,10 +1,5 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://pan.imsyy.top/"
@@ -17,7 +12,7 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "djwsj.top"
   },
   {
     "icon": "Book",
@@ -28,10 +23,5 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
